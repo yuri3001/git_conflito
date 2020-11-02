@@ -1,3 +1,4 @@
+olá mundo, tudo bem?
 int x, y;
 printf ('olá mundo');
 printf('Insira um número: \n');
@@ -5,3 +6,4 @@ scanf("%d",&x);
 printf('Insira outro número: \n');
 scanf("%d",&y);
 printf('Resultado: %.2d',x+y); 
+
